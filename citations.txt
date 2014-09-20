@@ -1,0 +1,7 @@
+Discussion on the subjectiviity of the final dataset in forums
+	Title: David's project FAQ
+		Heading: what columns are measurements on the mean and standard deviation
+		link: https://class.coursera.org/getdata-007/forum/thread?thread_id=49
+	Title: Clarification of step 5
+		Heading: Response from TA Mario Ibanez
+		Link:https://class.coursera.org/getdata-007/forum/thread?thread_id=42#post-97
